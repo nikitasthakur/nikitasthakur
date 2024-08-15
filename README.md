@@ -49,36 +49,31 @@ My expertise spans from building responsive web applications to implementing com
    - Integrated with RedCap and implemented features like patient filtering, bulk form printing, and activity tracking.
    - Technologies: Python, RedCap, Process Automation
 
-4. **Genomic Data Analysis for Cancer Patients (2024)**
-   - Conducted data mining and machine learning on genomic data for cancer patients.
-   - Utilized Globus CLI, High-Performance Computing (HPC), and Globus Compute.
-   - Technologies: HPC, Globus, Machine Learning, Data Mining
-
-5. **Personal Portfolio (Jun 2023)**
+4. **Personal Portfolio (Jun 2023)**
    - Built a professional portfolio showcasing skills and experiences with awesome 3D animations.
    - Technologies: Three.js, React.js, JavaScript
 
-6. **Chicago Crime Index (Jan 2023 - May 2023)**
+5. **Chicago Crime Index (Jan 2023 - May 2023)**
    - Studied the effect of weather, population, and socioeconomic variables on Crime Rates in Chicago Neighborhoods.
    - Skills: Python, Data Science, Data Visualization
 
-7. **Health Inequities in EPIC MyChart Portal Activation (Jan 2023 - May 2023)**
+6. **Health Inequities in EPIC MyChart Portal Activation (Jan 2023 - May 2023)**
    - Developed a visualization tool to analyze parameters affecting patient portal activation and digital health equity.
    - Technologies: D3.js, JavaScript, Data Analysis
 
-8. **Cardiovascular Disease Visualization (Aug 2022 - Dec 2022)**
+7. **Cardiovascular Disease Visualization (Aug 2022 - Dec 2022)**
    - Created an interactive dashboard with patient data from Colombian Hospitals to explore trends in cardiovascular diseases.
    - Technologies: D3.js, JavaScript, Data Visualization
 
-9. **Sentiment Analysis of US Presidential Election Tweets (Aug 2022 - Dec 2022)**
+8. **Sentiment Analysis of US Presidential Election Tweets (Aug 2022 - Dec 2022)**
    - Analyzed sentiments in tweets related to the 2012 US Presidential elections using deep learning techniques.
    - Technologies: Python, Deep Learning
 
-10. **Car Damage Detection (Jan 2022 - May 2022)**
+9. **Car Damage Detection (Jan 2022 - May 2022)**
     - Developed deep learning models for car damage assessment using various CNN architectures.
     - Technologies: Python, Deep Neural Networks, Transfer Learning
 
-11. **Programmable Calculator in C++ and Ruby (Aug 2021 - Dec 2021)**
+10. **Programmable Calculator in C++ and Ruby (Aug 2021 - Dec 2021)**
     - Implemented a calculator allowing users to specify sequences of arithmetic operations on multiple registers.
     - Technologies: C++, Ruby, Object-Oriented Programming
 
