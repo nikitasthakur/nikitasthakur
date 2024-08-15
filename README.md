@@ -1,13 +1,15 @@
 # Hello, I'm Nikita Thakur! 👋
 
 ## 🚀 About Me
-I'm a passionate Full Stack Developer and Data Analyst with a Master's in Computer Science from the University of Illinois Chicago. Currently, I'm working as a Research Data Analyst at the UI Health Cancer Center, where I leverage my skills in data mining, machine learning, and full-stack development to drive impactful research in healthcare.
+I'm a versatile technologist with a passion for both Full Stack Development and Data Science/ML. With a Master's in Computer Science from the University of Illinois Chicago, I thrive at the intersection of web technologies and artificial intelligence. Currently, I'm a Research Data Analyst at the UI Health Cancer Center, where I leverage my diverse skill set to drive impactful research in healthcare.
+
+My expertise spans from building responsive web applications to implementing complex machine learning models. I'm equally excited about crafting intuitive user interfaces, optimizing backend systems, and extracting insights from data. This multidisciplinary approach allows me to tackle challenges from various angles and contribute to innovative solutions across different domains.
 
 ## 🛠️ Skills
 - **Languages:** Python, Java, Ruby, C++, R, JavaScript, TypeScript
-- **Front-end:** React, Node.js, HTML5, CSS
+- **Front-end:** React, Node.js, HTML5, CSS, D3.js
 - **Back-end:** AWS, RESTful APIs, Django
-- **Data Science:** Machine Learning, TensorFlow, PyTorch, Pandas, Seaborn
+- **Data Science & ML:** TensorFlow, PyTorch, Pandas, Seaborn, scikit-learn
 - **Cloud & DevOps:** Azure, Docker, AWS
 - **Mobile:** React Native, Android Development
 - **Database:** Oracle, MongoDB, DynamoDB
@@ -28,11 +30,57 @@ I'm a passionate Full Stack Developer and Data Analyst with a Master's in Comput
 - Accenture Celebrates Excellence Award (2019 and 2020)
 - Tech Star 2021
 
-## 📚 Recent Projects
-1. **SDOH Extraction using NLP**: Led a project to extract Social Determinants of Health from clinical notes using Natural Language Processing.
-2. **ETL Pipelines for Oncology Data**: Developed data integration pipelines using Azure Data Factory for Oncology and Clinical Trials databases.
-3. **Automated Breast Cancer Screening Tool**: Engineered a Python application for the Illinois Breast Cancer Screening team, saving 10-15 hours/week.
-4. **IoT Event Management App**: Built a responsive web application for internal event management using AWS, React, and TypeScript.
+## 📚 Projects
+
+1. **SDOH Extraction using NLP (2024)**
+   - Led a cross-disciplinary project to extract Social Determinants of Health (SDOH) from clinical notes using Natural Language Processing.
+   - Engineered data pipelines for data mining, cleaning, labeling, and model training.
+   - Deployed solutions in Docker with a custom UI for SDOH data exploration and clinician feedback.
+   - Technologies: NLP, Docker, Python, Machine Learning
+
+2. **ETL Pipelines for Oncology Data (2024)**
+   - Developed data integration pipelines using Azure Data Factory for Oncology and Clinical Trials databases.
+   - Worked with both relational (MS SQL) and document-based (MongoDB) databases.
+   - Technologies: Azure Data Factory, MS SQL, MongoDB, ETL
+
+3. **Automated Breast Cancer Screening Tool (2024)**
+   - Engineered a Python-based application for the Illinois Breast Cancer Screening team.
+   - Automated processes, achieving a 10-15 hours/week time savings.
+   - Integrated with RedCap and implemented features like patient filtering, bulk form printing, and activity tracking.
+   - Technologies: Python, RedCap, Process Automation
+
+4. **Genomic Data Analysis for Cancer Patients (2024)**
+   - Conducted data mining and machine learning on genomic data for cancer patients.
+   - Utilized Globus CLI, High-Performance Computing (HPC), and Globus Compute.
+   - Technologies: HPC, Globus, Machine Learning, Data Mining
+
+5. **Personal Portfolio (Jun 2023)**
+   - Built a professional portfolio showcasing skills and experiences with awesome 3D animations.
+   - Technologies: Three.js, React.js, JavaScript
+
+6. **Chicago Crime Index (Jan 2023 - May 2023)**
+   - Studied the effect of weather, population, and socioeconomic variables on Crime Rates in Chicago Neighborhoods.
+   - Skills: Python, Data Science, Data Visualization
+
+7. **Health Inequities in EPIC MyChart Portal Activation (Jan 2023 - May 2023)**
+   - Developed a visualization tool to analyze parameters affecting patient portal activation and digital health equity.
+   - Technologies: D3.js, JavaScript, Data Analysis
+
+8. **Cardiovascular Disease Visualization (Aug 2022 - Dec 2022)**
+   - Created an interactive dashboard with patient data from Colombian Hospitals to explore trends in cardiovascular diseases.
+   - Technologies: D3.js, JavaScript, Data Visualization
+
+9. **Sentiment Analysis of US Presidential Election Tweets (Aug 2022 - Dec 2022)**
+   - Analyzed sentiments in tweets related to the 2012 US Presidential elections using deep learning techniques.
+   - Technologies: Python, Deep Learning
+
+10. **Car Damage Detection (Jan 2022 - May 2022)**
+    - Developed deep learning models for car damage assessment using various CNN architectures.
+    - Technologies: Python, Deep Neural Networks, Transfer Learning
+
+11. **Programmable Calculator in C++ and Ruby (Aug 2021 - Dec 2021)**
+    - Implemented a calculator allowing users to specify sequences of arithmetic operations on multiple registers.
+    - Technologies: C++, Ruby, Object-Oriented Programming
 
 ## 📫 How to reach me
 - Email: nikitathakur2211@gmail.com
